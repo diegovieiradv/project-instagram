@@ -2,11 +2,15 @@
 
 Este projeto é uma recriação da página de login do Instagram, desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web front-end.
 
+## Demo
+
+🔗 **[Acessar demo na Vercel](https://project-instagram-diegovieiradv.vercel.app)**
+
 🎨 Preview do Projeto
 
 <div align="center">
 
-![Mockup dos Dispositivos](./projeto%20instagram/img/mockup.png)
+![Mockup dos Dispositivos](./img/mockup.png)
 
 _Interface moderna e responsiva em todos os dispositivos_
 
@@ -19,56 +23,30 @@ O projeto consiste em uma página responsiva que replica a interface de login do
 - Área de visualização do aplicativo móvel
 - Design responsivo para diferentes tamanhos de tela
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- **HTML5**
+- **HTML5** - Estruturação semântica da página
+- **CSS3** - Flexbox, Media Queries, responsividade
+- **JavaScript** - Animação de troca de imagens
 
-  - Estruturação semântica da página
-  - Tags modernas para melhor acessibilidade
-
-- **CSS3**
-
-  - Flexbox para layouts flexíveis
-  - Media Queries para responsividade
-  - Posicionamento com position absolute/relative
-  - Box model e box-sizing
-  - Unidades responsivas (vw/vh)
-
-- **Design Responsivo**
-  - Layout adaptativo para dispositivos móveis
-  - Breakpoints para diferentes tamanhos de tela
-
-## 💻 Como Executar
+## Como Executar
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-instagram.git
+git clone https://github.com/diegovieiradv/project-instagram.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador
 
-## 📱 Recursos e Funcionalidades
+## Recursos
 
 - Interface fiel à página de login do Instagram
 - Formulário de login estilizado
 - Visualização do aplicativo móvel (em telas maiores)
 - Layout responsivo que se adapta a diferentes dispositivos
-- Botões e links interativos
-- Suporte para login com Facebook
+- Animação de troca de imagens automática
 
-## 🎨 Características do Design
-
-- Cores oficiais do Instagram
-- Tipografia similar à original
-- Elementos de UI fielmente reproduzidos
-- Animações e transições suaves
-- Interface limpa e moderna
-
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Desenvolvido com 💙 como projeto de estudo
