@@ -4,7 +4,7 @@ Este projeto é uma recriação da página de login do Instagram, desenvolvido c
 
 ## Demo
 
-🔗 **[Acessar demo na Vercel](https://project-instagram-diegovieiradv.vercel.app)**
+🔗 **[Acessar demo na Vercel](https://project-instagram-blond.vercel.app)**
 
 🎨 Preview do Projeto
 
